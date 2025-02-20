@@ -1,3 +1,3 @@
 Student = "Robert"
 
-Print(Student)
+print(Student)
